@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+img {
+  height: 200px;
+  width: 150px;
+}
+
+#add {
+  background-color: blue;
+  color: white;
+}
+
+#delete {
+  background-color: red;
+  color: white;
+}
+
+.table {
+  background-color: white;
+  width: 800px;
+  justify-content: center;
+}
+
+#sort {
+  background-color: grey;
+  color: white;
+}
+
+td,
+th {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  text-align: center;
+}
